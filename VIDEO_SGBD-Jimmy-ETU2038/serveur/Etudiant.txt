@@ -1,0 +1,10 @@
+idE,Nom,Prenom,Age,Sexe
+1,Rams,Lova,20,H
+2,Rand,Jim,20,H
+3,Rams,Meva,16,F
+4,Tafita,Soa,19,H
+5,Morel,Ben,19,H
+6,Iante,Mendrika,17,F
+7,Rova,Tiana,18,F
+8,Fandresena,Nomena,18,F
+9,Sitraka,Lalaina,19,F

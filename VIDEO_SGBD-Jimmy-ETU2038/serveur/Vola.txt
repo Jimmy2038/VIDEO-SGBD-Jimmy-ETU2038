@@ -1,0 +1,2 @@
+depense,gain,revenue
+1000,2000,1000

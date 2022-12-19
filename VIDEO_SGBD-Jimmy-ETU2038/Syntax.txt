@@ -1,0 +1,35 @@
+//cree table
+Syntax:forony nom_tab asio attri
+exemple:forony Vola asio depense,gain,revenue
+
+//Insert 
+Syntax:ampidiro att1,att2,...,attn ao amin'ny tab
+exemple:ampidiro Fitiavana,Andry,19,F ao amin'ny Etudiant
+
+//Select*
+Syntax:alaivo ny rehetra ao amin'ny tab
+exemple:alaivo ny rehetra ao amin'ny Etudiant
+
+//projection
+Syntax:alaivo ny nom,age,sex ao amin'ny tab
+exemple:alaivo ny Nom,Age ao amin'ny Personne
+ 				
+//Union
+atambaro tab1 sy tab2
+exemple:atambaro Etudiant sy Personne
+					
+//intersection
+Syntax: intersection de tab1 et tab2					
+exemple:intersection de Etudiant et Personne
+
+//difference
+Syntax: mifanala ny tab1 sy tab2					
+exemple:mifanala ny Etudiant sy Personne
+
+//poduit_cartesienne
+Syntax: cartesienne de tab1 et tab2					
+exemple:cartesienne de Etudiant et Personne
+
+//Tetha_Join
+Syntax: ampifandraiso eto amin'ny ampitahaina1=ampitahaina2 ny tab1 sy tab2 	
+exemple:ampifandraiso eto amin'ny idE=idE ny Etudiant sy Class
